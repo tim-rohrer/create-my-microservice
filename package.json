@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "Generates an ExpressJS server with Webpack, Babel, Typescript",
   "main": "index.js",
+  "bin": "./index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "create-my-microservice": "node index.js"
